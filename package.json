@@ -1,0 +1,11 @@
+{
+    "name": "mi-repositorio",
+    "version": "1.0.0",
+    "description": "Proyecto de ejemplo para GitHub Actions",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
